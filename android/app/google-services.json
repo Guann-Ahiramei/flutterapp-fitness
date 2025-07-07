@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976729097849",
+    "project_id": "travel-bot-4e3bb",
+    "storage_bucket": "travel-bot-4e3bb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976729097849:android:d2fa9c9db04396a58cb6a8",
+        "android_client_info": {
+          "package_name": "com.example.gemini_in_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0FPsDV8ENUIO4MehENSq2wGNAdoIqCbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
